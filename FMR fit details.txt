@@ -1,0 +1,55 @@
+3.5
+runfile('D:/Documents_D/FMR rugged fit.py', wdir='D:/Documents_D') 
+Linewidth= 38.102588999999966
+Xres= 636.5
+[15.96034952 -4.14545794]
+K1= 15.960349519981607 K2= -4.145457935631607
+
+5
+runfile('D:/Documents_D/FMR clean fit.py', wdir='D:/Documents_D')
+Linewidth= 33.34210000000007
+Xres= 1149.1336
+[42.68907805  0.67928507]
+K1= 42.689078053951555 K2= 0.6792850697655062
+
+8
+runfile('D:/Documents_D/FMR clean fit.py', wdir='D:/Documents_D')
+Linewidth= 46.93108200000006
+Xres= 2209.0604
+[1.37393328e+02 7.72326506e-02]
+K1= 137.39332792945223 K2= 0.07723265064657646
+
+6.5
+runfile('D:/Documents_D/FMR rugged fit.py', wdir='D:/Documents_D')
+Linewidth= 50.785134999999855
+Xres= 1667.0
+[97.95134241 -1.37411001]
+K1= 97.95134241114401 K2= -1.3741100050566775
+
+9.5
+runfile('D:/Documents_D/FMR rugged fit.py', wdir='D:/Documents_D')
+Linewidth= 64.69107699999995
+Xres= 2763.8
+[ 3.61593027e+02 -3.09076010e-02]
+K1= 361.59302657849105 K2= -0.030907600983536208
+
+11
+runfile('D:/Documents_D/FMR rugged fit.py', wdir='D:/Documents_D')
+Linewidth= 61.72505000000001
+Xres= 3297.7
+[ 3.18284495e+02 -9.04874915e-03]
+K1= 318.2844945245295 K2= -0.009048749151208891
+
+12.5
+runfile('D:/Documents_D/FMR rugged fit.py', wdir='D:/Documents_D')
+Linewidth= 72.56907000000001
+Xres= 3842.4
+[ 3.01361564e+02 -1.72983138e-02]
+K1= 301.3615635268723 K2= -0.01729831376631734
+
+14
+runfile('D:/Documents_D/FMR rugged fit.py', wdir='D:/Documents_D')
+Linewidth= 59.30446599999959
+Xres= 4383.9
+[2.76601530e+02 4.77075302e-04]
+K1= 276.601529982182 K2= 0.00047707530225538086
